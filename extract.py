@@ -3,7 +3,7 @@ import json
 from google.cloud import storage
 import datetime as dt
 
-api_key = '490ecf09fdbb8860bc092ab070555c99'
+api_key = ''  #my api key
 base_url = 'http://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
 
 cities = [
